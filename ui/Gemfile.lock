@@ -2,9 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     backports (3.8.0)
-    bson (1.12.5)
-    bson_ext (1.12.5)
-      bson (~> 1.12.5)
+    bson (3.0.4) bson", ">= 3.0.4
+    bson_ext (3.0.4)
+      bson (~> 3.0.4)
     concurrent-ruby (1.0.5)
     et-orbi (1.0.8)
       tzinfo
